@@ -1,84 +1,119 @@
-{
-    "language": "vi",
-    "DeveloperMode": false,
-    "autoCreateDB": true,
-    "MAINTENANCE_MODE": false,
-    "iconUnsend": {
-        "status": true,
-        "icon": "❤"
-    },
-    "notiGroup": false,
-    "NOTIFICATION": true,
-    "allowInbox": false,
-    "commandDisabled": [],
-    "eventDisabled": [],
-    "autoClean": true,
-    "ACCESSTOKEN": "",
-    "BOTNAME": "Krystal [BETA]",
-    "AMDIN_NAME": "Điền tên bạn vào đây",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/100018277053087",
-    "PREFIX": "/",
-    "LOGIN": {
-        "EMAIL": "",
-        "PASSWORD": "",
-        "OTPKEY": ""
-    },
-    "ADMINBOT": [
-        "100018277053087"
-    ],
-    "NDH": [
-        "100018277053087"
-    ],
-    "DATABASE": {
-        "sqlite": {
-            "storage": "antists.sqlite"
-        }
-    },
-    "APPSTATEPATH": "appstate.json",
-    "FCAOption": {
-        "forceLogin": true,
-        "listenEvents": true,
-        "pauseLog": true,
-        "logLevel": "error",
-        "selfListen": true,
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1"
-    },
-    "version": "2.7.12",
-    "menu": {
-        "autoUnsend": {
-            "status": true,
-            "timeOut": 90
-        },
-        "delayUnsend": 60
-    },
-    "log": {
-        "enable": true
-    },
-    "daily": {
-        "cooldownTime": 43200000,
-        "rewardCoin": 1000000
-    },
-    "anti": {
-        "autoUnsend": true,
-        "sendNoti": true,
-        "timeToUnsend": 10
-    },
-    "adminOnly": false,
-    "loto": {
-        "maxPlayers": 10,
-        "getDelay": 8
-    },
-    "cave": {
-        "cooldownTime": 86400
-    },
-    "farm": {
-        "cooldownTime": 300000
-    },
-    "help": {
-        "autoUnsend": true,
-        "delayUnsend": 60
-    },
-    "minecraft": {
-        "APIKEY": ""
-    }
-}
+[
+	{
+		"key": "dbln",
+		"value": "%7B%22100070788526785%22%3A%229PZjGI8G%22%7D",
+		"domain": "facebook.com",
+		"path": "/login/device-based/",
+		"hostOnly": false,
+		"creation": "2025-04-21T19:29:28.900Z",
+		"lastAccessed": "2025-04-21T19:29:28.900Z"
+	},
+	{
+		"key": "datr",
+		"value": "_69UZxsKfHvGZHmbE61muffj",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-21T19:29:28.900Z",
+		"lastAccessed": "2025-04-21T19:29:28.900Z"
+	},
+	{
+		"key": "sb",
+		"value": "_69UZ0qYrUKCWZd8T9tF1BaE",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-21T19:29:28.900Z",
+		"lastAccessed": "2025-04-21T19:29:28.900Z"
+	},
+	{
+		"key": "ps_l",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-21T19:29:28.900Z",
+		"lastAccessed": "2025-04-21T19:29:28.900Z"
+	},
+	{
+		"key": "ps_n",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-21T19:29:28.900Z",
+		"lastAccessed": "2025-04-21T19:29:28.900Z"
+	},
+	{
+		"key": "dpr",
+		"value": "1.25",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-21T19:29:28.900Z",
+		"lastAccessed": "2025-04-21T19:29:28.900Z"
+	},
+	{
+		"key": "wd",
+		"value": "1536x730",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-21T19:29:28.900Z",
+		"lastAccessed": "2025-04-21T19:29:28.900Z"
+	},
+	{
+		"key": "locale",
+		"value": "vi_VN",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-21T19:29:28.900Z",
+		"lastAccessed": "2025-04-21T19:29:28.900Z"
+	},
+	{
+		"key": "c_user",
+		"value": "100070788526785",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-21T19:29:28.900Z",
+		"lastAccessed": "2025-04-21T19:29:28.900Z"
+	},
+	{
+		"key": "xs",
+		"value": "38%3Aacr2WUEdPRlCrA%3A2%3A1745254459%3A-1%3A14154%3A%3AAcWO0qHGo52OuCfQiwwFtEOKjDnHXto4goSwutZ28g",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-21T19:29:28.900Z",
+		"lastAccessed": "2025-04-21T19:29:28.900Z"
+	},
+	{
+		"key": "fr",
+		"value": "1lcCjePwG7VQcmSGJ.AWeWnZJUDHxfJAgUGZw1DE_PuTt9pdHdJDrUbmCRepS6-RncuG8.BoBpYH..AAA.0.0.BoBpa-.AWciOJgO5LrLDpvdVGIMsmCDPPI",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-21T19:29:28.900Z",
+		"lastAccessed": "2025-04-21T19:29:28.900Z"
+	},
+	{
+		"key": "ar_debug",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-21T19:29:28.900Z",
+		"lastAccessed": "2025-04-21T19:29:28.900Z"
+	},
+	{
+		"key": "presence",
+		"value": "C%7B%22lm3%22%3A%22sc.25077619861881916%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1745263656357%2C%22v%22%3A1%7D",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-21T19:29:28.900Z",
+		"lastAccessed": "2025-04-21T19:29:28.900Z"
+	}
+]
